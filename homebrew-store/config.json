@@ -1,0 +1,6 @@
+{
+"label":"Homebrew Store",
+"icon":"icon.png",
+"launch":"launch.sh",
+"description":"Browse and install free homebrew games"
+}
