@@ -1,10 +1,11 @@
-# Miyoo Mini apps: Series Browser, Romhack Store, Game Atlas
+# Miyoo Mini apps: Homebrew Store, Series Browser, Romhack Store, Game Atlas
 
-Three apps for the **Miyoo Mini and Mini Plus running Onion OS**. They share the same look and controls, read
-the same Onion folders, and work well together:
+Four apps for the **Miyoo Mini and Mini Plus running Onion OS**. They read the same Onion folders and work well
+together:
 
 | App | What it does | Download |
 | --- | --- | --- |
+| **Homebrew Store** | Download free, legal homebrew games for Game Boy, Game Boy Color, GBA and NES | [HomebrewStore.zip](homebrew-store/dist/HomebrewStore.zip) |
 | **Series Browser** | Browse the games you already have by franchise instead of by console | [SeriesBrowser.zip](series-browser/dist/SeriesBrowser.zip) |
 | **Romhack Store** | Find ROM hacks and fan translations for your games, and patch a copy on the device | [RomhackStore.zip](romhack-store/dist/RomhackStore.zip) |
 | **Game Atlas** | Every game ever released for your Miyoo's systems, compared with what's on your SD card | [GameAtlas.zip](game-library/dist/GameAtlas.zip) |
@@ -15,6 +16,7 @@ the same Onion folders, and work well together:
 
 1. Unzip the app.
 2. Copy its folder to the `App` folder of your SD card:
+   - `SD:/App/HomebrewStore`
    - `SD:/App/SeriesBrowser`
    - `SD:/App/RomhackStore`
    - `SD:/App/GameAtlas`
@@ -23,12 +25,15 @@ the same Onion folders, and work well together:
 Nothing else is needed: each app has its own fonts and tools, and nothing on your SD card is changed by installing
 them.
 
-**Wi-Fi:** Series Browser never needs it. Romhack Store needs it to download patches and screenshots. Game Atlas needs
+**Wi-Fi:** Homebrew Store always needs it. Series Browser never needs it. Romhack Store needs it to download patches and screenshots. Game Atlas needs
 it for covers and English patches only; the rest works offline.
 
 ---
 
-## Controls (the same in all three)
+## Controls
+
+Series Browser, Romhack Store and Game Atlas share these controls. The Homebrew Store differs in a few places (see
+below).
 
 | Button | Action |
 | --- | --- |
@@ -44,7 +49,25 @@ it for covers and English patches only; the rest works offline.
 
 The bottom bar always shows what the buttons do on the current screen.
 
+**Homebrew Store differences:** X installs the selected game, Y opens search, L2/R2 switch the type (Games, Demos,
+Music, Tools, Everything), START refreshes the catalog. On a game's page, Y removes it, L1/R1 flip screenshots and
+L2/R2 go to the previous/next game.
+
 **On-screen keyboard (search):** A types, B deletes, X adds a space, SELECT switches capitals, START searches.
+
+---
+
+## Homebrew Store
+
+Free and legal homebrew games from [Homebrew Hub](https://hh.gbdev.io), the community archive of new games made
+for old consoles.
+
+- Covers **Game Boy, Game Boy Color, Game Boy Advance and NES**.
+- **Tabs (L1/R1):** one per platform. **L2/R2** switch between Games, Demos, Music, Tools or Everything.
+- Each game has screenshots, a description and its author.
+- **X installs** the game straight into the right Onion folder (`Roms/GB`, `Roms/GBC`, `Roms/GBA`, `Roms/FC`) with
+  box art in `Roms/<system>/Imgs`, so it appears in your game list right away.
+- Y on a game's page removes it again.
 
 ---
 
@@ -112,6 +135,8 @@ Y > *Only games with an English patch* filters any list to these games.
 
 ## Using them together
 
+- **Homebrew Store** adds new, free games to your consoles. Series Browser and Game Atlas pick them up after a
+  rescan. Game Atlas's list is mostly official releases, so most homebrew won't change your completion numbers.
 - **Game Atlas** shows what you're missing and which Japanese games can be played in English.
 - **Romhack Store** finds hacks for the games you have. Game Atlas also recognises English copies made by the Romhack
   Store (they are named like "Mother 3 (English)"). Each app's *Installed* list only shows the copies it made itself.
@@ -129,7 +154,7 @@ After adding games to the card, use **Y > Rescan** in any of the apps.
 | `series.json` | Series Browser | Your own series and changes |
 | `installed.txt` | Romhack Store, Game Atlas | Patched copies you made |
 | `hashes.txt` | Romhack Store, Game Atlas | ROM checksums, computed once |
-| `cache/` | Romhack Store, Game Atlas | Downloaded patches, screenshots and covers. Safe to delete |
+| `cache/` | Homebrew Store, Romhack Store, Game Atlas | Downloads, screenshots and covers. Safe to delete |
 
 ---
 
@@ -149,9 +174,11 @@ After adding games to the card, use **Y > Rescan** in any of the apps.
 - **Game data:** No-Intro, Redump and the libretro-database project. Clone lists from retool.
 - **Game details and scores:** MobyGames, RAWG and Metacritic datasets.
 - **Covers:** libretro-thumbnails and the Onion Ports Collection.
+- **Homebrew games:** Homebrew Hub by gbdev. Each game keeps its own licence.
 - **Hacks and translations:** romhacking.net authors and translators, preserved by the Internet Archive.
 - **Bundled software:** 7-Zip (`bin/7zzs`) by Igor Pavlov, GNU LGPL with the unRAR restriction.
 - **Fonts:** Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.
 - **Onion OS** by the Onion team.
 
-These apps don't include any games or ROMs. Use them with games you own.
+Apart from the free homebrew offered by the Homebrew Store, these apps don't include or download any games or
+ROMs. Use them with games you own.
