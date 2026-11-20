@@ -1,0 +1,6 @@
+{
+"label":"Series Browser",
+"icon":"icon.png",
+"launch":"launch.sh",
+"description":"Browse all your games by franchise"
+}
