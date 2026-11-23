@@ -5,17 +5,17 @@ together:
 
 | App | What it does | Download |
 | --- | --- | --- |
-| **Homebrew Store** | Download free, legal homebrew games for Game Boy, Game Boy Color, GBA and NES | [HomebrewStore.zip](homebrew-store/dist/HomebrewStore.zip) |
-| **Series Browser** | Browse the games you already have by franchise instead of by console | [SeriesBrowser.zip](series-browser/dist/SeriesBrowser.zip) |
-| **Romhack Store** | Find ROM hacks and fan translations for your games, and patch a copy on the device | [RomhackStore.zip](romhack-store/dist/RomhackStore.zip) |
-| **Game Atlas** | Every game ever released for your Miyoo's systems, compared with what's on your SD card | [GameAtlas.zip](game-library/dist/GameAtlas.zip) |
+| **Homebrew Store** | Download free, legal homebrew games for Game Boy, Game Boy Color, GBA and NES | 
+| **Series Browser** | Browse the games you already have by franchise instead of by console | 
+| **Romhack Store** | Find ROM hacks and fan translations for your games, and patch a copy on the device | 
+| **Game Atlas** | Every game ever released for your Miyoo's systems, compared with what's on your SD card 
 
 ---
 
 ## Installing
 
-1. Unzip the app.
-2. Copy its folder to the `App` folder of your SD card:
+1. Download the repo
+2. Copy the folders to the `App` folder of your SD card:
    - `SD:/App/HomebrewStore`
    - `SD:/App/SeriesBrowser`
    - `SD:/App/RomhackStore`
