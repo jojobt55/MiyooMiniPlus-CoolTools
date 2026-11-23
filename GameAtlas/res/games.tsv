@@ -485,7 +485,7 @@ NES	Clu Clu Land	1985-10	Strategy	Nintendo R&D	Nintendo			clucluland	A3456700|C9
 NES	Cobra Command	1988-10	Shooter	Data East	Data East			cobracommand	D1EC0C2F|2D75C7A9|D8235B4C|24BA90CA	Cobra Command (USA)|Cobra Command (Japan)	Japan,USA		
 NES	Cobra Mission		Platformer	Ancient	Ancient			cobramission	F3AAD71C|DF31B364	Cobra Mission (Taiwan) (En)	Taiwan		
 NES	Cobra Triangle	1989-07	Racing	Rare	Nintendo			cobratriangle	59A8D51B|C8AD4F32|3F7C1136|AE798B1F|5808D744|898E4232	Cobra Triangle (USA)|Cobra Triangle (USA) (Evercade)|Cobra Triangle (Europe)	Europe,USA		
-NES	Cocoron	1991-05	Platformer	K2	Sur de Wave		J	cocoron	375CDC25|78C4460D	Cocoron (Japan)	Japan		t104;t101736
+NES	Cocoron	1991-05	Platformer	K2	Sur de Wave		J	cocoron	375CDC25|78C4460D	Cocoron (Japan)	Japan		t104
 NES	Code Name - Viper	1990-02	Platformer	Capcom	Capcom			codenameviper|deadfox	5988DA29|E2313813|95A79DE2|2E1E7FD8	Code Name - Viper (USA)|Dead Fox (Japan)	Japan,USA		t101555
 NES	Coin World							coinworld	6775B5D1|8A0A0066	Coin World (World)	World		
 NES	Color Match Combat							colormatchcombat	8FABB93C|F5C16D7C	Color Match Combat (World)	World		
@@ -499,7 +499,7 @@ NES	Comuni Non Comuni							comuninoncomuni	B46FAC09|F6E20244	Comuni Non Comuni 
 NES	ConTroll							controll	7689E296|4B446EF5	ConTroll (World)	World		
 NES	Conan	1991-02	Platformer	System 3 Software	Mindscape			conan	9230B58B|C6000085	Conan (USA)	USA		
 NES	Conflict	1989-12	Strategy	Vic Tokai	Vic Tokai			conflict	61137F26|32CF4307|F5B8BF72|A6648353	Conflict (USA)|Conflict (Japan)	Japan,USA		
-NES	Conquest of the Crystal Palace	1990-08	Platformer	Quest	Asmik			conquestofthecrystalpalace|matendouji	9B1CC3A1|20A5219B|49E0A14E|F2594374	Conquest of the Crystal Palace (USA)|Matendouji (Japan)	Japan,USA		t1646;t101778
+NES	Conquest of the Crystal Palace	1990-08	Platformer	Quest	Asmik			conquestofthecrystalpalace|matendouji	9B1CC3A1|20A5219B|49E0A14E|F2594374	Conquest of the Crystal Palace (USA)|Matendouji (Japan)	Japan,USA		t1646
 NES	Contra	1988-02	Shooter	Konami	Konami			contra|probotector	52CD5CD8|F6035030|D3C6BE6E|7708B286|D19571B1|755B7D59|37CF0748|8DCC1194|55720363|B13F00D4|08789A28|B27B8CF4	Contra (USA)|Contra (World) (Konami Collector's Series)|Contra (World) (Contra Anniversary Collection)	Europe,Japan,USA,World	Contra	t1451;t1551;t155;t1190
 NES	Contra Force	1992-09	Shooter	Konami	Konami			contraforce	12FC738A|A94591B0	Contra Force (USA)	USA	Contra	
 NES	Convention Quest							conventionquest	8800BE75|C414356D	Convention Quest (USA)	USA		
@@ -777,7 +777,7 @@ NES	Falling Tiles							fallingtiles	2635421B|BCFDD7DE|4A337597|D0FBE052	Falling
 NES	FamiDepth							famidepth	940C9764|A70C96C9	FamiDepth (World)	World		
 NES	Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori o Sukue no Maki!	1989-12	Adventure	Graphic Research	CBS Sony Group		J	famicomdoubutsuseitaizukankattenishirokumamoriosukuenomaki	04586D16|F8C1A690	Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori o Sukue no Maki! (Japan)	Japan		
 NES	Famicom Igo Nyuumon	1991-11	Board & cards	Home Data	I'Max		J	famicomigonyuumon	A93E6649|2470402B	Famicom Igo Nyuumon (Japan)	Japan		
-NES	Famicom Jump - Eiyuu Retsuden	1989-02	Role-playing	Tose	Bandai		J	famicomjumpeiyuuretsuden	80B4C1DE|D343C66A	Famicom Jump - Eiyuu Retsuden (Japan)	Japan		t101531
+NES	Famicom Jump - Eiyuu Retsuden	1989-02	Role-playing	Tose	Bandai		J	famicomjumpeiyuuretsuden	80B4C1DE|D343C66A	Famicom Jump - Eiyuu Retsuden (Japan)	Japan		t101531;t104588
 NES	Famicom Jump II - Saikyou no 7 Nin	1991-12	Role-playing	Chunsoft	Bandai		J	famicomjumpiisaikyouno7nin	32E1C19B|3F15D20D	Famicom Jump II - Saikyou no 7 Nin (Japan)	Japan		
 NES	Famicom Meijin Sen	1988-09	Board & cards	ADK	SNK		J	famicommeijinsen	A0D44264|9CFA55E7|BE31381C|821F2F9F	Famicom Meijin Sen (Japan)|Famicom Meijin Sen (Japan) (Rev 1)	Japan		
 NES	Famicom Shougi - Ryuuousen	1991-02	Board & cards	Home Data	I'Max		J	famicomshougiryuuousen	F8ABCC27|149C0EC3	Famicom Shougi - Ryuuousen (Japan)	Japan		
@@ -1311,7 +1311,7 @@ NES	Track & Field II	1988-09	Sports	Konami	Konami			trackandfieldii|konamicsport
 NES	Korean Igo				DreamTech			koreanigo	1057A86A|F956FCEA	Korean Igo (Korea)	Korea		
 NES	Korvatunturi under attQUACK							korvatunturiunderattquack	31843802|5F20463E	Korvatunturi under attQUACK (World)	World		
 NES	Koudai Yaoguai - Zuanshi Ban							koudaiyaoguaizuanshiban	D5FEE757|E7AEB114	Koudai Yaoguai - Zuanshi Ban (China)	China		
-NES	Kouryuu Densetsu Villgust Gaiden	1993-07	Role-playing	Plex	Angel		J	kouryuudensetsuvillgustgaiden	B9A9EB9A|5318CDB9	Kouryuu Densetsu Villgust Gaiden (Japan)	Japan		t92;t3863;t708;t101785
+NES	Kouryuu Densetsu Villgust Gaiden	1993-07	Role-playing	Plex	Angel		J	kouryuudensetsuvillgustgaiden	B9A9EB9A|5318CDB9	Kouryuu Densetsu Villgust Gaiden (Japan)	Japan		t92;t3863;t708
 NES	Koushien	1989-10	Sports	SNK	SNK		J	koushien	BFE563BC|83CB743F	Koushien (Japan)	Japan		
 NES	Krazy Kreatures	1990	Strategy	American Video Entertainment	American Video Entertainment			krazykreatures	35DCC72B|85323FD6|D3911EA1|637FE65C	Krazy Kreatures (USA) (NINA-03)|Krazy Kreatures (USA) (NINA-06)	USA		
 NES	The Krion Conquest	1990-12	Platformer	Vic Tokai	Vic Tokai			krionconquest|magicalkidsdoropie	B89ECCA1|03272E9B|C57F1561|7EC6F75B	Krion Conquest, The (USA)|Magical Kid's Doropie (Japan)	Japan,USA		t576
@@ -1871,7 +1871,7 @@ NES	Rad Racer II	1990-06	Racing	Square	Square			radracerii	33F0FC16|404B2E8B	Rad
 NES	Rad Racket - Deluxe Tennis II	1992	Sports	Idea-Tek	American Video Entertainment			radracketdeluxetennisii	0D095F48|BDE7A7B5|18B1D857|81C88C71	Rad Racket - Deluxe Tennis II (USA)|Rad Racket - Deluxe Tennis II (Taiwan) (En)	Taiwan,USA		
 NES	Radac Tailor-Made		Educational	Tokyo Shoseki	Bridgestone Multimedia Group		J	radactailormade	2370707A|74EE0FFC|EC06B2BE|BB98CD38	Radac Tailor-Made (Japan)|Radac Tailor-Made (Japan) (Rev 1) (Possible Proto)	Japan		
 NES	Raddio							raddio	7ED7385F|04BDEC1F	Raddio (World)	World		
-NES	Radia Senki - Reimei Hen	1991-11	Role-playing	Tecmo	Tecmo		J	radiasenkireimeihen|radiazhanji	D8E80AB8|332C47E0|6B67AE30|0AD84EBF	Radia Senki - Reimei Hen (Japan)|Radia Zhan Ji (China)	China,Japan		t102;t707;t101747
+NES	Radia Senki - Reimei Hen	1991-11	Role-playing	Tecmo	Tecmo		J	radiasenkireimeihen|radiazhanji	D8E80AB8|332C47E0|6B67AE30|0AD84EBF	Radia Senki - Reimei Hen (Japan)|Radia Zhan Ji (China)	China,Japan		t102;t707
 NES	Rahul Titan - The Revenge of Dingo Dango							rahultitantherevengeofdingodango	68558158|EDB4B267	Rahul Titan - The Revenge of Dingo Dango (World)	World		
 NES	Raid 2020	1989	Shooter	Color Dreams	Color Dreams			raid2020	D1E8A3FE|61253D1C	Raid 2020 (USA)	USA		
 NES	Raid on Bungeling Bay	1985-02	Shooter	Brøderbund Software	Brøderbund Software			raidonbungelingbay	FD4FB5B5|D308D52C|4A8E0FCA|64C96F53|8B00C675|A547A6EC	Raid on Bungeling Bay (USA)|Raid on Bungeling Bay (Japan)|Raid on Bungeling Bay (Japan) (En) (Rev 1)	Japan,USA		
@@ -3289,7 +3289,7 @@ SNES	Final Fight Guy	1992-03	Action	Capcom	Capcom			finalfightguy	BC1AE3C2|DE144
 SNES	Final Stretch	1993-11	Racing	Genki	LOZC G. Amusements		J	finalstretch	8D29F41F	Final Stretch (Japan)	Japan		
 SNES	Finalset	1993-09	Sports	Open System	Forum			finalset	E06FAE58	Finalset (Japan) (En)	Japan		
 SNES	Find Luigi							findluigi	FD2A2284	Find Luigi (World)	World		
-SNES	Fire Emblem - Monshou no Nazo	1994-01	Strategy	Intelligent Systems	Nintendo		J	fireemblemmonshounonazo	25D214F4|A427B7E6	Fire Emblem - Monshou no Nazo (Japan)|Fire Emblem - Monshou no Nazo (Japan) (Rev 1)	Japan	Fire Emblem	t961;t2805;t4969;t356;t612;t544;t100163;t100168
+SNES	Fire Emblem - Monshou no Nazo	1994-01	Strategy	Intelligent Systems	Nintendo		J	fireemblemmonshounonazo	25D214F4|A427B7E6	Fire Emblem - Monshou no Nazo (Japan)|Fire Emblem - Monshou no Nazo (Japan) (Rev 1)	Japan	Fire Emblem	t961;t2805;t4969;t356;t612;t544
 SNES	Fire Emblem - Seisen no Keifu	1996-05	Strategy	Intelligent Systems	Nintendo		J	fireemblemseisennokeifu	DC0D8CF9	Fire Emblem - Seisen no Keifu (Japan)	Japan	Fire Emblem	t865;t2803;t359;t101950
 SNES	Fire Emblem - Thracia 776	1999-09	Strategy	Intelligent Systems	Nintendo		J	fireemblemthracia776	FC519952|BC6162AE|EAAA2C53	Fire Emblem - Thracia 776 (Japan)|Fire Emblem - Thracia 776 (Japan) (NP)|Fire Emblem - Thracia 776 (Japan) (Rev 1) (NP)	Japan	Fire Emblem	t1046;t4653;t881;t5884;t624
 SNES	The Ignition Factor	1994-11	Strategy	Jaleco	Jaleco			ignitionfactor|firefighting	EE441564|88D2416E|554FC152	Ignition Factor, The (USA)|Ignition Factor, The (World) (Evercade)|Fire Fighting (Japan)	Japan,USA,World		
@@ -3315,7 +3315,7 @@ SNES	Frogger	1998	Action	Morning Star Multimedia	Majesco			frogger	2488B8F2	Frog
 SNES	From TV Animation Slam Dunk - SD Heat Up!!	1995-10	Sports	Tose	Bandai Namco		J	fromtvanimationslamdunksdheatup	D05114C0	From TV Animation Slam Dunk - SD Heat Up!! (Japan)	Japan		
 SNES	From TV Animation Slam Dunk - Shuueisha Limited	1994-03	Sports	Tose	Bandai		J	fromtvanimationslamdunkshuueishalimited|fromtvanimationslamdunkyonkyougekitotsu	99276EAA|35B21BBA|2BF73F89	From TV Animation Slam Dunk - Shuueisha Limited (Japan)|From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan)|From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan) (Rev 1)	Japan		t104504
 SNES	From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!!	1995-02	Sports		Bandai Namco		J	fromtvanimationslamdunk2ihyosenkanzenban	AA2B7692	From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!! (Japan)	Japan		
-SNES	Front Mission	1995-02	Strategy	G-Craft	Square Enix	72	J	frontmission	FE27E061|50278B21	Front Mission (Japan)|Front Mission (Japan) (Rev 1)	Japan		t362
+SNES	Front Mission	1995-02	Strategy	G-Craft	Square Enix	72	J	frontmission	FE27E061|50278B21	Front Mission (Japan)|Front Mission (Japan) (Rev 1)	Japan		t362;t104784
 SNES	Front Mission Series - Gun Hazard	1996-02	Role-playing	Square	Square		J	frontmissionseriesgunhazard	FD3FDBAC	Front Mission Series - Gun Hazard (Japan)	Japan		t528
 SNES	Full Throttle - All-American Racing	1994-12	Racing	Gremlin Graphics Software	GameTek			fullthrottleallamericanracing|fullpower	2A4A53CA|7219DFCA|861F2E42|66C04587	Full Throttle - All-American Racing (USA)|Full Throttle - All-American Racing (World) (Evercade)|Full Throttle - All-American Racing (Europe)	Europe,Japan,USA,World		
 SNES	Fun 'n Games	1994	Puzzle	Leland Interactive Media	Tradewest			funngames	5D6DEAC7|09FF2DFE	Fun 'n Games (USA)|Fun 'n Games (Europe)	Europe,USA		
@@ -3362,7 +3362,7 @@ SNES	George Foreman's KO Boxing	1992-09	Sports	Beam Software	Acclaim			georgefor
 SNES	Gerry Anderson's Thunderbirds - Kokusai Kyuujotai Shutsudou Seyo!!	1993-09	Shooter	Nova Games	Cobra Team		J	gerryandersonsthunderbirdskokusaikyuujotaishutsudouseyo	623F2197	Gerry Anderson's Thunderbirds - Kokusai Kyuujotai Shutsudou Seyo!! (Japan)	Japan		
 SNES	Get in the Hole	1995	Sports	Ricoh	Good House		J	getinthehole	7F0D601D	Get in the Hole (Japan)	Japan		
 SNES	Getsumen no Anubis	1995-12	Adventure	Access Games	Imagineer		J	getsumennoanubis	78432DDC	Getsumen no Anubis (Japan)	Japan		
-SNES	Ghost Chaser Densei	1994-09	Action	Winky Soft	Banpresto		J	ghostchaserdensei	DFD6385D	Ghost Chaser Densei (Japan)	Japan		t3021;t101592;t101756
+SNES	Ghost Chaser Densei	1994-09	Action	Winky Soft	Banpresto		J	ghostchaserdensei	DFD6385D	Ghost Chaser Densei (Japan)	Japan		t3021;t101592
 SNES	Ghoul Patrol	1994-11	Shooter	JVC	LucasArts			ghoulpatrol	EA16B5A2|220E09FA|2C6CEFE7|5519AF34	Ghoul Patrol (USA)|Ghoul Patrol (USA) (Limited Run Games)|Ghoul Patrol (Europe)	Europe,Japan,USA		
 SNES	Gindama Oyakata no Pachinko Hisshouhou	1995-02	Board & cards		Sammy Studios		J	gindamaoyakatanopachinkohisshouhou	7ADACC49|B8C7A417	Gindama Oyakata no Pachinko Hisshouhou (Japan)|Gindama Oyakata no Pachinko Hisshouhou (Japan) (Rev 1)	Japan		
 SNES	Ginga Eiyuu Densetsu	1992-09	Strategy	Advance Communication Company	Tokuma Shoten		J	gingaeiyuudensetsu	2E480EEF	Ginga Eiyuu Densetsu (Japan)	Japan	Legend of Galactic Heroes	
@@ -3858,7 +3858,7 @@ SNES	Natsuki Crisis Battle	1995-04	Fighting	Tose	Angel		J	natsukicrisisbattle	97
 SNES	Natsume Championship Wrestling	1994-06	Sports	Natsume	Natsume			natsumechampionshipwrestling	D4DC20E1	Natsume Championship Wrestling (USA)	USA		
 SNES	Naxat Super Pinball - Jaki Crush	1992-12	Pinball	Compile	Naxat Soft		J	naxatsuperpinballjakicrush	F696D5A9	Naxat Super Pinball - Jaki Crush (Japan)	Japan		
 SNES	Nekketsu Tairiku - Burning Heroes	1995-03	Role-playing	J-Force	Enix		J	nekketsutairikuburningheroes	DA105A27	Nekketsu Tairiku - Burning Heroes (Japan)	Japan		t1713
-SNES	Neugier - Umi to Kaze no Kodou	1993-03	Action	Wolf Team	Telenet		J	neugierumitokazenokodou	7F0DDCCF	Neugier - Umi to Kaze no Kodou (Japan)	Japan		t398;t101787
+SNES	Neugier - Umi to Kaze no Kodou	1993-03	Action	Wolf Team	Telenet		J	neugierumitokazenokodou	7F0DDCCF	Neugier - Umi to Kaze no Kodou (Japan)	Japan		t398
 SNES	True Golf Classics - Wicked 18	1993-03	Sports	T&E Soft	Bullet Proof Software			truegolfclassicswicked18|new3dgolfsimulationdevilscourse	26177842|640D734F	True Golf Classics - Wicked 18 (USA)|New 3D Golf Simulation - Devil's Course (Japan)	Japan,USA	True Golf Classics	
 SNES	New 3D Golf Simulation - Harukanaru Augusta	1991-04	Sports	T&E Soft	T&E Soft		J	new3dgolfsimulationharukanaruaugusta	B4FD7AFF|D7E41218	New 3D Golf Simulation - Harukanaru Augusta (Japan)|New 3D Golf Simulation - Harukanaru Augusta (Japan) (Rev 1)	Japan		
 SNES	True Golf Classics - Pebble Beach Golf Links	1992	Sports	T&E Soft	T&E Soft			truegolfclassicspebblebeachgolflinks|new3dgolfsimulationpebblebeachnohatou	18C5AD58|EEEDE683|E8A7D379	True Golf Classics - Pebble Beach Golf Links (USA)|True Golf Classics - Pebble Beach Golf Links (Europe)|New 3D Golf Simulation - Pebble Beach no Hatou (Japan)	Europe,Japan,USA		
@@ -4009,7 +4009,7 @@ SNES	Power Lode Runner	1999	Puzzle	Atelier Double	Nintendo		J	powerloderunner	DF
 SNES	Power Piggs of the Dark Age	1996-05	Action	Radical Entertainment	Titus			powerpiggsofthedarkage	E945530D|491B0BCD|87AFC187	Power Piggs of the Dark Age (USA)|Power Piggs of the Dark Age (World) (Evercade)|Power Piggs of the Dark Age (Europe)	Europe,USA,World		
 SNES	Power Rangers Zeo - Battle Racers	1996-09	Racing	NATSUME	Natsume			powerrangerszeobattleracers	389300CF|6AA46CFC	Power Rangers Zeo - Battle Racers (USA)|Power Rangers Zeo - Battle Racers (Europe)	Europe,USA	Power Rangers	
 SNES	Power Soukoban	1999	Action	Atelier Double	Nintendo		J	powersoukoban	39FBAA1E	Power Soukoban (Japan)	Japan		t4985
-SNES	Power of the Hired	1994-12	Role-playing	NCS	NCS		J	powerofthehired	CF276C80	Power of the Hired (Japan)	Japan		t6031
+SNES	Power of the Hired	1994-12	Role-playing	NCS	NCS		J	powerofthehired	CF276C80	Power of the Hired (Japan)	Japan		
 SNES	PowerMonger	1993	Strategy	Bullfrog Prodcutions	Electronic Arts			powermonger|powermongermashounobouryaku	BC06F982|3E14376B	PowerMonger (Europe)|PowerMonger - Mashou no Bouryaku (Japan)	Europe,Japan		
 SNES	Primal Rage	1995-08	Action	Bitmasters	Time Warner Interactive			primalrage	3753E4B6|75EEF329	Primal Rage (USA)|Primal Rage (Europe)	Europe,USA		
 SNES	Prince of Persia	1992-07	Action	Arsys	Konami			princeofpersia	891BB2BB|320562C3|CFC71E89	Prince of Persia (USA)|Prince of Persia (Europe)|Prince of Persia (Japan)	Europe,Japan,USA	Prince of Persia	
@@ -4125,7 +4125,7 @@ SNES	Secret of Evermore	1995-09	Role-playing	Square Soft	Square Enix			secretofe
 SNES	Secret of Mana	1993-10	Role-playing	Square	Square			secretofmana|seikendensetsu2	D0176B24|89990EF7|9499855E|C5FFEA78|C5CB2F26|DE112322|B8049E3C|B3EC4FCE|1D23770C|6BE4CA95|B069BB3A|E9334B9E	Secret of Mana (USA)|Secret of Mana (USA) (Virtual Console)|Secret of Mana (World) (De) (Collection of Mana)	Europe,France,Germany,Japan,USA,World		t5765
 SNES	Seifuku Densetsu - Pretty Fighter	1994-12	Fighting	Genki	Imagineer		J	seifukudensetsuprettyfighter	A638BEF1	Seifuku Densetsu - Pretty Fighter (Japan)	Japan		
 SNES	Seijuu Maden Beasts & Blades	1995-12	Role-playing	Bullet-Proof Software	Bullet Proof Software		J	seijuumadenbeastsandblades	D0AEA27C	Seijuu Maden Beasts & Blades (Japan)	Japan		
-SNES	Trials of Mana	1995-09	Role-playing	Square	Square Enix			trialsofmana|seikendensetsu3	DDB47390|9743DC0E|CA0C6BAE|D4F43F86|534DF838|173E6097|593CD548|3D09832A|863ED0B8|E8CB48AA	Trials of Mana (World) (De) (Collection of Mana)|Trials of Mana (World) (En) (Collection of Mana)|Trials of Mana (World) (Es) (Collection of Mana)	Japan,World	Mana	t440;t101743
+SNES	Trials of Mana	1995-09	Role-playing	Square	Square Enix			trialsofmana|seikendensetsu3	DDB47390|9743DC0E|CA0C6BAE|D4F43F86|534DF838|173E6097|593CD548|3D09832A|863ED0B8|E8CB48AA	Trials of Mana (World) (De) (Collection of Mana)|Trials of Mana (World) (En) (Collection of Mana)|Trials of Mana (World) (Es) (Collection of Mana)	Japan,World	Mana	t440
 SNES	Sengoku Denshou	1993-09	Beat 'em up	Data East	Data East		J	sengokudenshou	C9D97B3E	Sengoku Denshou (Japan)	Japan		t1742
 SNES	Sengoku no Hasha - Tenkafubu e no Michi	1995-12	Strategy	Bits Laboratory	Banpresto		J	sengokunohashatenkafubuenomichi	4B955941	Sengoku no Hasha - Tenkafubu e no Michi (Japan)	Japan		
 SNES	Sgt. Saunders' Combat!	1995-09	Strategy	Play Avenue	ASCII		J	sgtsaunderscombat	DA5888C7	Sgt. Saunders' Combat! (Japan)	Japan		
@@ -4401,7 +4401,7 @@ SNES	Super Power League 3	1995-08	Sports	Now Production	Hudson		J	superpowerleag
 SNES	Super Power League 4	1996-08	Sports	Now Production	Hudson		J	superpowerleague4	C07F099D	Super Power League 4 (Japan)	Japan	Power League	
 SNES	Super Professional Baseball II	1992-08	Sports	Tose	Jaleco		J	superprofessionalbaseballii	29B6A6F0	Super Professional Baseball II (Japan)	Japan		
 SNES	Super Punch-Out!!	1994-10	Sports	Nintendo R&D3	Nintendo			superpunchout	E2F92F84|2061FE60|C6906F5F|B5D92AF4	Super Punch-Out!! (USA)|Super Punch-Out!! (World) (GameCube)|Super Punch-Out!! (Europe)	Europe,Japan,USA,World		
-SNES	Super Puyo Puyo 2	1995-12	Puzzle	Compile	Compile			superpuyopuyo2|superpuyopuyotsuu|superpuyopuyotsuuremix	8C8897F4|271E1F3F|61F903F8	Super Puyo Puyo 2 (World) (Ja) (Switch Online)|Super Puyo Puyo Tsuu (Japan)|Super Puyo Puyo Tsuu Remix (Japan)	Japan,World	Puyo Puyo	t465;t101561
+SNES	Super Puyo Puyo 2	1995-12	Puzzle	Compile	Compile			superpuyopuyo2|superpuyopuyotsuu|superpuyopuyotsuuremix	8C8897F4|271E1F3F|61F903F8	Super Puyo Puyo 2 (World) (Ja) (Switch Online)|Super Puyo Puyo Tsuu (Japan)|Super Puyo Puyo Tsuu Remix (Japan)	Japan,World	Puyo Puyo	t465
 SNES	Super R-Type	1991-07	Shooter	Irem	Nintendo			superrtype	8B22C830|1631740D|4E872C8B	Super R-Type (USA)|Super R-Type (Europe)|Super R-Type (Japan) (En)	Europe,Japan,USA	R-Type	
 SNES	Super R.B.I. Baseball	1995-06	Sports	Gray Matter	Time Warner Interactive			superrbibaseball	31DB6CFE	Super R.B.I. Baseball (USA)	USA	R.B.I. Baseball	
 SNES	Super Rambler							superrambler	6A41323B|EE8F4E7D	Super Rambler (World) (v1.01)|Super Rambler (World) (v1.02)	World		
@@ -7500,8 +7500,8 @@ GBC	Wizard of Wor							wizardofwor	492A9529	Wizard of Wor (World)	World
 GBC	Wizardry Empire	1999-10	Role-playing	Starfish	Starfish		J	wizardryempire	7ADC90E1|FA82620F	Wizardry Empire (Japan)|Wizardry Empire (Japan) (Rev 1)	Japan		t2316;t2917;t52
 GBC	Wizardry Empire - Fukkatsu no Tsue	2000-12	Role-playing	Starfish	Starfish		J	wizardryempirefukkatsunotsue	1A10552B	Wizardry Empire - Fukkatsu no Tsue (Japan)	Japan		t2322;t2902
 GBC	Wizardry I - Proving Grounds of the Mad Overlord	2001-02	Role-playing	Sir-tech	Sir-tech			wizardryiprovinggroundsofthemadoverlord	A99A33DC	Wizardry I - Proving Grounds of the Mad Overlord (Japan) (En,Ja)	Japan	Wizardry	t56
-GBC	Wizardry II - Llylgamyn no Isan	2001-02	Role-playing	ASCII	ASCII			wizardryiillylgamynnoisan	DD727F1A	Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)	Japan	Wizardry	t55;t100155
-GBC	Wizardry III - Diamond no Kishi	2001-02	Role-playing	ASCII	ASCII			wizardryiiidiamondnokishi	D44D3596	Wizardry III - Diamond no Kishi (Japan) (En,Ja)	Japan	Wizardry	t54;t100156
+GBC	Wizardry II - Llylgamyn no Isan	2001-02	Role-playing	ASCII	ASCII			wizardryiillylgamynnoisan	DD727F1A	Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)	Japan	Wizardry	t55
+GBC	Wizardry III - Diamond no Kishi	2001-02	Role-playing	ASCII	ASCII			wizardryiiidiamondnokishi	D44D3596	Wizardry III - Diamond no Kishi (Japan) (En,Ja)	Japan	Wizardry	t54
 GBC	Wolf Pack							wolfpack	AE35B80B	Wolf Pack (World)	World		
 GBC	Woody Woodpecker	2001	Platformer	Dreamcatcher	Nintendo			woodywoodpecker	BD2D1F8B|2612F8C4	Woody Woodpecker (USA)|Woody Woodpecker (Europe) (En,Fr,De,Es,It)	Europe,USA	Woody Woodpecker	
 GBC	Woody Woodpecker Racing	2000-12	Racing	Konami	Konami			woodywoodpeckerracing|woodywoodpeckernogogoracing	0424CF43|B0F43498|F59DAA99	Woody Woodpecker Racing (USA)|Woody Woodpecker Racing (Europe)|Woody Woodpecker no Go! Go! Racing (Japan)	Europe,Japan,USA		
@@ -13947,7 +13947,7 @@ MD	Hex Sweeper							hexsweeper	5B167D78	Hex Sweeper (World)	World
 MD	Hexagonos							hexagonos	2F6F3168	Hexagonos (Brazil) (Mega Drive 4)	Brazil		
 MD	Hide the Baby							hidethebaby	A4C7BD9B	Hide the Baby (World) (v1.1)	World		
 MD	Hit the Ice - VHL - The Official Video Hockey League	1992	Sports	Taito	Taito			hittheicevhltheofficialvideohockeyleague	85B23606	Hit the Ice - VHL - The Official Video Hockey League (USA)	USA		
-MD	Last Battle	1989-07	Action	Sega	Sega			lastbattle|hokutonokenshinseikimatsukyuuseishudensetsu	BBFAAD77|1B6585E7	Last Battle (USA, Europe, Korea) (En)|Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)	Europe,Japan,Korea,USA		t101930
+MD	Last Battle	1989-07	Action	Sega	Sega			lastbattle|hokutonokenshinseikimatsukyuuseishudensetsu	BBFAAD77|1B6585E7	Last Battle (USA, Europe, Korea) (En)|Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)	Europe,Japan,Korea,USA		t101930;t101931
 MD	Home Alone	1992	Adventure	Brian A. Rice	Sega			homealone	AA0D4387	Home Alone (USA, Europe)	Europe,USA	Home Alone	
 MD	Home Alone 2 - Lost in New York	1993	Platformer	Interactive Designs	Sega			homealone2lostinnewyork	CBF87C14|C2F37AE2	Home Alone 2 - Lost in New York (USA)|Home Alone 2 - Lost in New York (USA) (Sega Channel)	USA	Home Alone	
 MD	Honey Soldier MD							honeysoldiermd	9BE2F14D	Honey Soldier MD (World)	World		
@@ -14675,7 +14675,7 @@ MD	Top Gear 2	1994-09	Racing	Gremlin Interactive	Kemco			topgear2	BD3074D2	Top G
 MD	Top Pro Golf	1992-06	Sports	Coconuts Japan	Soft Vision			topprogolf	62BAD606	Top Pro Golf (Japan) (En)	Japan		
 MD	Total Football	1995	Sports	Domark	Acclaim Entertainment			totalfootball	8360B66A	Total Football (Europe)	Europe		
 MD	Toughman Contest	1995	Sports	Visual Concepts Entertainment	Electronic Arts			toughmancontest	E19FBC93	Toughman Contest (USA, Europe)	Europe,USA		
-MD	Tougi Ou - King Colossus	1992-06	Role-playing	Sega	Sega		J	tougioukingcolossus	FFE7B3C7	Tougi Ou - King Colossus (Japan)	Japan		t914;t101762
+MD	Tougi Ou - King Colossus	1992-06	Role-playing	Sega	Sega		J	tougioukingcolossus	FFE7B3C7	Tougi Ou - King Colossus (Japan)	Japan		t914
 MD	Tourmaline							tourmaline	437AEB56	Tourmaline (World)	World		
 MD	Towers of Hanoi							towersofhanoi	465FC6B6	Towers of Hanoi (World)	World		
 MD	Toxic Crusaders	1992	Action	Infogrames	Infogrames			toxiccrusaders	11FD46CE	Toxic Crusaders (USA)	USA		
@@ -16635,7 +16635,7 @@ PCECD	Develo - Starter Kit - Assembler-hen	1996	Action		Tokuma Shoten Intermedia
 PCECD	Develo - Starter Kit - BASIC-hen	1996	Action		Tokuma Shoten Intermedia		J	develostarterkitbasichen	2C81EEA5	Develo - Starter Kit - BASIC-hen (Japan)	Japan		
 PCECD	Develo Magazine Vol. 1	1996	Action		Tokuma Shoten Intermedia		J	develomagazinevol1	26A82568	Develo Magazine Vol. 1 (Japan)	Japan		
 PCECD	Doraemon - Nobita no Dorabian Night	1992-05	Platformer	Now Production	Hudson Soft Company		J	doraemonnobitanodorabiannight	A6DCAD2F	Doraemon - Nobita no Dorabian Night (Japan)	Japan		
-PCECD	Double Dragon II - The Revenge	1993-03	Beat 'em up	Technos Japan	Naxat Soft		J	doubledragoniitherevenge	C5169657	Double Dragon II - The Revenge (Japan)	Japan		
+PCECD	Double Dragon II - The Revenge	1993-03	Beat 'em up	Technos Japan	Naxat Soft		J	doubledragoniitherevenge	C5169657	Double Dragon II - The Revenge (Japan)	Japan		t104692
 PCECD	Doukyuusei						J	doukyuusei	AEE8ADAA|A4859C64	Doukyuusei (Japan) (Rev 3)|Doukyuusei (Japan) (Rev 4)	Japan		
 PCECD	Down Load 2	1991-03	Shooter	AlfaSystem	NEC Avenue		J	download2	AA238D8D	Down Load 2 (Japan)	Japan		
 PCECD	Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai						J	downtownnekketsukoushinkyokusoreyukedaiundoukai	30E90FE8	Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)	Japan		
@@ -17069,7 +17069,7 @@ NGPC	Pocket Tennis Color - Pocket Sports Series	1999	Sports	Yumekobo	SNK			pocke
 NGPC	Puyo Pop	1999	Puzzle	Compile	SNK			puyopop	5EA9559E|3090B2FD	Puyo Pop (USA) (En,Ja) (v06)|Puyo Pop (Japan) (En,Ja) (v05)	Japan,USA	Puyo Puyo	
 NGPC	Puzzle Link	1999-03	Puzzle	Yumekobo	SNK			puzzlelink|renketsupuzzletsunageteponcolor	8D0610AC|C3F3E83C	Puzzle Link (USA, Europe)|Renketsu Puzzle Tsunagete Pon! Color (Japan)	Europe,Japan,USA		
 NGPC	Puzzle Link 2	1999-11	Puzzle	Yumekobo	SNK			puzzlelink2|tsunagetepon2	BA9CA21C|129091BB	Puzzle Link 2 (USA, Europe)|Tsunagete Pon! 2 (Japan)	Europe,Japan,USA		
-NGPC	Rockman - Battle & Fighters	2000	Fighting	Capcom	Capcom		J	rockmanbattleandfighters	3C010642	Rockman - Battle & Fighters (Japan)	Japan		t84;t3925
+NGPC	Rockman - Battle & Fighters	2000	Fighting	Capcom	Capcom		J	rockmanbattleandfighters	3C010642	Rockman - Battle & Fighters (Japan)	Japan		t84;t3925;t101851
 NGPC	SNK Gals' Fighters	2000	Fighting	Yumekobo	SNK			snkgalsfighters	B02C2BE7|D73B5B9F	SNK Gals' Fighters (USA, Europe)|SNK Gals' Fighters (Japan)	Europe,Japan,USA		
 NGPC	SNK vs. Capcom - Card Fighters 2 - Expand Edition	2001-09	Board & cards	SNK	SNK		J	snkvscapcomcardfighters2expandedition	CCBCFDA7	SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)	Japan	SNK Vs. Capcom	t82;t2703
 NGPC	SNK vs. Capcom - Card Fighters' Clash - Capcom Version	1999	Strategy	SNK	Capcom			snkvscapcomcardfightersclashcapcomversion|snkvscapcomgekitotsucardfighterscapcomsupporterversion	80CE137B|9217159B	SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)|SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)	Europe,Japan,USA	SNK Vs. Capcom	

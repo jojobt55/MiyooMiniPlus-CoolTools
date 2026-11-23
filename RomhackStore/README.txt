@@ -1,7 +1,7 @@
 ROMHACK STORE for Miyoo Mini / Mini Plus (Onion OS)
 ===================================================
 
-Browse about 12,900 ROM hacks and fan translations, see which ones fit the
+Browse about 13,300 ROM hacks and fan translations, see which ones fit the
 games already on your SD card, and install them on the handheld. Installing
 patches a COPY of your ROM: the original file is never changed.
 
@@ -13,8 +13,9 @@ WHERE THE HACKS COME FROM
   1. The romhacking.net hacks and translations collection as preserved on
      the Internet Archive (archive.org item "rhdn-20210914"): about 10,400
      hacks released up to September 2021.
-  2. Romhack Plaza (romhackplaza.org): about 2,500 more, most of them
-     released since 2022. Shown as "via Romhack Plaza" on the hack's page.
+  2. Romhack Plaza (romhackplaza.org): about 2,900 more, most of them
+     released since 2022, plus the latest version of about 220 older hacks
+     that were updated after the archive was made. Shown as "via Romhack Plaza" on the hack's page.
      Their patches are downloaded straight from Romhack Plaza through its
      public API, used with Romhack Plaza's permission. The app shares one
      API key, so if many people download at once you may see "too many
