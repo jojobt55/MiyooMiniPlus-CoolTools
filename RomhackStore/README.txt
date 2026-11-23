@@ -1,7 +1,7 @@
 ROMHACK STORE for Miyoo Mini / Mini Plus (Onion OS)
 ===================================================
 
-Browse about 10,400 ROM hacks and fan translations, see which ones fit the
+Browse about 12,900 ROM hacks and fan translations, see which ones fit the
 games already on your SD card, and install them on the handheld. Installing
 patches a COPY of your ROM: the original file is never changed.
 
@@ -10,11 +10,15 @@ INSTALL
   It appears under Apps in Onion. Wi-Fi is needed to download patches.
 
 WHERE THE HACKS COME FROM
-  The catalog is the romhacking.net hacks and translations collection as
-  preserved on the Internet Archive (archive.org item "rhdn-20210914").
-  romhacking.net itself now blocks automatic downloads, so each patch is
-  fetched from that archive. Hacks released after September 2021 are not
-  in it.
+  1. The romhacking.net hacks and translations collection as preserved on
+     the Internet Archive (archive.org item "rhdn-20210914"): about 10,400
+     hacks released up to September 2021.
+  2. Romhack Plaza (romhackplaza.org): about 2,500 more, most of them
+     released since 2022. Shown as "via Romhack Plaza" on the hack's page.
+     Their patches are downloaded straight from Romhack Plaza through its
+     public API, used with Romhack Plaza's permission. The app shares one
+     API key, so if many people download at once you may see "too many
+     downloads right now": wait a minute and try again.
   Covered: NES, Famicom Disk System, SNES, Game Boy / Color, GBA, Mega Drive,
   Master System, Game Gear, Sega CD, 32X, PlayStation, PC Engine (+CD),
   SuperGrafx, MSX, Neo Geo Pocket, WonderSwan, Virtual Boy, SG-1000, Lynx,
@@ -66,7 +70,8 @@ FILES IN THIS FOLDER
   log.txt        errors, if something goes wrong
 
 CREDITS
-  Hack and translation authors, romhacking.net, and the Internet Archive.
+  Hack and translation authors, romhacking.net, the Internet Archive,
+  and Romhack Plaza (romhackplaza.org), which hosts the newer hacks.
   7-Zip (bin/7zzs) by Igor Pavlov, GNU LGPL + unRAR restriction, see
   bin/7zip-License.txt.
   Fonts: Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.

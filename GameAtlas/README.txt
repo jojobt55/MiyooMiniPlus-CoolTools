@@ -72,7 +72,8 @@ WHERE THE DATA COMES FROM
   only later games have one: most GBA, DS and PlayStation games, very few
   older ones.
   Covers: libretro-thumbnails (GitHub), and the Onion Ports Collection.
-  English patches: the romhacking.net archive on the Internet Archive.
+  English patches: the romhacking.net archive on the Internet Archive and
+  Romhack Plaza (romhackplaza.org), through its public API.
 
 FILES IN THIS FOLDER
   cache/covers   downloaded covers (safe to delete)
@@ -82,7 +83,8 @@ FILES IN THIS FOLDER
 CREDITS
   No-Intro, Redump, libretro-database and libretro-thumbnails contributors,
   MobyGames, RAWG and Metacritic data, retool clone lists, romhacking.net
-  translators, the Internet Archive and the Onion team.
+  translators, the Internet Archive, Romhack Plaza and its authors, and the
+  Onion team.
   7-Zip (bin/7zzs) by Igor Pavlov, GNU LGPL + unRAR restriction, see
   bin/7zip-License.txt.
   Fonts: Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.

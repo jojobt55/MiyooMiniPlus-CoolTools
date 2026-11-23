@@ -88,7 +88,7 @@ you own, on every system, in one list.
 
 ## Romhack Store
 
-About 10,400 ROM hacks and fan translations, matched with the games already on your card.
+About 12,900 ROM hacks and fan translations, matched with the games already on your card.
 
 - **Tabs:** *For my games* (hacks for ROMs you own), *All systems*, *Installed*.
 - Each hack has screenshots, a description, author, version, date and download count.
@@ -100,8 +100,12 @@ About 10,400 ROM hacks and fan translations, matched with the games already on y
 - Warns you before patching if your ROM is a different version from the one the hack was made for.
 - Y > **Check all ROMs** computes checksums once so exact matches show everywhere.
 
-Source of the hacks: the romhacking.net collection preserved on the Internet Archive, covering hacks released up to
-September 2021.
+Where the hacks come from:
+- **romhacking.net**, the collection preserved on the Internet Archive: about 10,400 hacks released up to September
+  2021.
+- **[Romhack Plaza](https://romhackplaza.org)**: about 2,500 more, mostly released since 2022, marked *via Romhack
+  Plaza*. Patches download straight from Romhack Plaza through its public API, with their permission. The app shares
+  one API key, so if you see "too many downloads right now", wait a minute and try again.
 
 ---
 
@@ -121,7 +125,7 @@ Ports**, compared with your SD card.
 - Regional releases count as one game: owning "Mega Man (USA)" also covers "Rockman (Japan)". Betas, demos,
   prototypes and pirate copies are left out.
 
-**English patches:** 1,010 games (mostly Japan-only) are marked **EN**. If you have the Japanese ROM, press X on the
+**English patches:** 1,132 games (mostly Japan-only) are marked **EN**. If you have the Japanese ROM, press X on the
 game's page and then A: Game Atlas patches a copy into English, using the same installer as the Romhack Store.
 Y > *Only games with an English patch* filters any list to these games.
 
@@ -175,7 +179,8 @@ After adding games to the card, use **Y > Rescan** in any of the apps.
 - **Game details and scores:** MobyGames, RAWG and Metacritic datasets.
 - **Covers:** libretro-thumbnails and the Onion Ports Collection.
 - **Homebrew games:** Homebrew Hub by gbdev. Each game keeps its own licence.
-- **Hacks and translations:** romhacking.net authors and translators, preserved by the Internet Archive.
+- **Hacks and translations:** their authors and translators; romhacking.net, preserved by the Internet Archive;
+  and [Romhack Plaza](https://romhackplaza.org), which hosts the newer ones.
 - **Bundled software:** 7-Zip (`bin/7zzs`) by Igor Pavlov, GNU LGPL with the unRAR restriction.
 - **Fonts:** Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.
 - **Onion OS** by the Onion team.
