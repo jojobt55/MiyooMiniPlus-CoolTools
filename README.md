@@ -1,23 +1,25 @@
-# Miyoo Mini apps: Homebrew Store, Series Browser, Romhack Store, Game Atlas
+# Miyoo Mini apps: Homebrew Store, Series Browser, Genre Browser, Romhack Store, Game Atlas
 
-Four apps for the **Miyoo Mini and Mini Plus running Onion OS**. They read the same Onion folders and work well
+Five apps for the **Miyoo Mini and Mini Plus running Onion OS**. They read the same Onion folders and work well
 together:
 
 | App | What it does | Download |
 | --- | --- | --- |
-| **Homebrew Store** | Download free, legal homebrew games for Game Boy, Game Boy Color, GBA and NES | 
-| **Series Browser** | Browse the games you already have by franchise instead of by console | 
-| **Romhack Store** | Find ROM hacks and fan translations for your games, and patch a copy on the device | 
-| **Game Atlas** | Every game ever released for your Miyoo's systems, compared with what's on your SD card 
+| **Homebrew Store** | Download free, legal homebrew games for Game Boy, Game Boy Color, GBA and NES | [HomebrewStore.zip](homebrew-store/dist/HomebrewStore.zip) |
+| **Series Browser** | Browse the games you already have by franchise instead of by console | [SeriesBrowser.zip](series-browser/dist/SeriesBrowser.zip) |
+| **Genre Browser** | Browse the games you already have by genre, and make your own genres | [GenreBrowser.zip](genre-browser/dist/GenreBrowser.zip) |
+| **Romhack Store** | Find ROM hacks and fan translations for your games, and patch a copy on the device | [RomhackStore.zip](romhack-store/dist/RomhackStore.zip) |
+| **Game Atlas** | Every game ever released for your Miyoo's systems, compared with what's on your SD card | [GameAtlas.zip](game-library/dist/GameAtlas.zip) |
 
 ---
 
 ## Installing
 
-1. Download the repo
-2. Copy the folders to the `App` folder of your SD card:
+1. Unzip the app.
+2. Copy its folder to the `App` folder of your SD card:
    - `SD:/App/HomebrewStore`
    - `SD:/App/SeriesBrowser`
+   - `SD:/App/GenreBrowser`
    - `SD:/App/RomhackStore`
    - `SD:/App/GameAtlas`
 3. Put the card back in. The apps appear under **Apps** in Onion.
@@ -25,14 +27,14 @@ together:
 Nothing else is needed: each app has its own fonts and tools, and nothing on your SD card is changed by installing
 them.
 
-**Wi-Fi:** Homebrew Store always needs it. Series Browser never needs it. Romhack Store needs it to download patches and screenshots. Game Atlas needs
+**Wi-Fi:** Homebrew Store always needs it. Series Browser and Genre Browser never need it. Romhack Store needs it to download patches and screenshots. Game Atlas needs
 it for covers and English patches only; the rest works offline.
 
 ---
 
 ## Controls
 
-Series Browser, Romhack Store and Game Atlas share these controls. The Homebrew Store differs in a few places (see
+Series Browser, Genre Browser, Romhack Store and Game Atlas share these controls. The Homebrew Store differs in a few places (see
 below).
 
 | Button | Action |
@@ -86,9 +88,28 @@ you own, on every system, in one list.
 
 ---
 
+## Genre Browser
+
+Your collection, grouped by genre across every console: open **Role-playing (RPG)** and see every RPG you own, on
+every system, in one list. Made from the Series Browser, so it works the same way.
+
+- **Genres are found automatically** from a list of about 16,600 games (the Game Atlas data). Any regional title
+  works ("Rockman X", "Seiken Densetsu 3"), and arcade games are found by set name. Games the list doesn't know, or
+  only calls "Action", are sorted by keywords ("soccer" goes to Sports, "Gradius" to Shooter). A game can be in
+  several genres.
+- 19 built-in genres: Action, Platformer, Shooter, Fighting, Beat 'em up, RPG, Adventure, Puzzle, Strategy,
+  Simulation, Racing, Sports, Board & cards, Music & rhythm, Pinball, Quiz, Educational, Compilations, Other.
+- **Tabs:** *Genres*, *My genres*, *No genre* (games not sorted yet, X adds one to a genre).
+- **Make your own genres on the device** (Y menu): "Favorites", "Co-op", "Metroidvania"… Tick their games,
+  auto-add by keyword, put a game in several genres, remove one from a genre, rename, hide or delete. Changes are kept
+  in `genres.json` in the app folder.
+- Games launch with your normal Onion settings.
+
+---
+
 ## Romhack Store
 
-About 12,900 ROM hacks and fan translations, matched with the games already on your card.
+About 13,300 ROM hacks and fan translations, matched with the games already on your card.
 
 - **Tabs:** *For my games* (hacks for ROMs you own), *All systems*, *Installed*.
 - Each hack has screenshots, a description, author, version, date and download count.
@@ -97,14 +118,19 @@ About 12,900 ROM hacks and fan translations, matched with the games already on y
   example `Roms/SFC/Learn 2 Kaizo.sfc`.
 - Handles IPS, UPS, BPS, PPF and xdelta patches, and zip, rar and 7z downloads. SNES copier headers are added or
   removed automatically, and PlayStation `.cue/.bin` games are supported.
+- **Multi-disc games** played through an `.m3u` playlist (discs in a hidden `.Game` folder included): pick a disc,
+  the app uses that disc's patch and writes a new playlist for the patched game. Y > *Patch another disc* for the
+  others.
+- **CHD discs** are supported: the app unpacks the disc (a few minutes on the Miyoo), patches it and saves the
+  patched copy as `.cue/.bin`, so keep about 700 MB free per PlayStation disc. PBP images can't be patched.
 - Warns you before patching if your ROM is a different version from the one the hack was made for.
 - Y > **Check all ROMs** computes checksums once so exact matches show everywhere.
 
 Where the hacks come from:
 - **romhacking.net**, the collection preserved on the Internet Archive: about 10,400 hacks released up to September
   2021.
-- **[Romhack Plaza](https://romhackplaza.org)**: about 2,500 more, mostly released since 2022, marked *via Romhack
-  Plaza*. Patches download straight from Romhack Plaza through its public API, with their permission. The app shares
+- **[Romhack Plaza](https://romhackplaza.org)**: about 2,900 more, mostly released since 2022, marked *via Romhack
+  Plaza*. For about 220 older hacks updated since, the app offers Romhack Plaza's latest version. Patches download straight from Romhack Plaza through its public API, with their permission. The app shares
   one API key, so if you see "too many downloads right now", wait a minute and try again.
 
 ---
@@ -144,7 +170,8 @@ Y > *Only games with an English patch* filters any list to these games.
 - **Game Atlas** shows what you're missing and which Japanese games can be played in English.
 - **Romhack Store** finds hacks for the games you have. Game Atlas also recognises English copies made by the Romhack
   Store (they are named like "Mother 3 (English)"). Each app's *Installed* list only shows the copies it made itself.
-- **Series Browser** groups everything, including your new patched copies, by franchise.
+- **Series Browser** and **Genre Browser** group everything, including your new patched copies, by franchise or
+  by genre.
 
 After adding games to the card, use **Y > Rescan** in any of the apps.
 
@@ -156,6 +183,7 @@ After adding games to the card, use **Y > Rescan** in any of the apps.
 | --- | --- | --- |
 | `log.txt` | all | Errors, if something goes wrong |
 | `series.json` | Series Browser | Your own series and changes |
+| `genres.json` | Genre Browser | Your own genres and changes |
 | `installed.txt` | Romhack Store, Game Atlas | Patched copies you made |
 | `hashes.txt` | Romhack Store, Game Atlas | ROM checksums, computed once |
 | `cache/` | Homebrew Store, Romhack Store, Game Atlas | Downloads, screenshots and covers. Safe to delete |
@@ -181,7 +209,8 @@ After adding games to the card, use **Y > Rescan** in any of the apps.
 - **Homebrew games:** Homebrew Hub by gbdev. Each game keeps its own licence.
 - **Hacks and translations:** their authors and translators; romhacking.net, preserved by the Internet Archive;
   and [Romhack Plaza](https://romhackplaza.org), which hosts the newer ones.
-- **Bundled software:** 7-Zip (`bin/7zzs`) by Igor Pavlov, GNU LGPL with the unRAR restriction.
+- **Bundled software:** 7-Zip (`bin/7zzs`) by Igor Pavlov, GNU LGPL with the unRAR restriction. libchdr (CHD
+  support) by Romain Tisserand and contributors, BSD licence.
 - **Fonts:** Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.
 - **Onion OS** by the Onion team.
 
