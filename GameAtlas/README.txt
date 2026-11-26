@@ -46,11 +46,24 @@ CONTROLS
   X        MISSING ONLY on/off (works everywhere; the counts switch to
            what you're missing)
   SELECT   sort a list: A-Z, Metascore, newest, oldest
-  Y        menu: search, "only games with an English patch", rescan
+  Y        menu: search, "only games with an English patch", export the
+           missing games to a text file, rescan
   L1 / R1  change tab on the home screen
   Left / Right on a game page: previous / next game
   Keyboard: A type, B delete, X space, SELECT shift, START search.
   Search finds any regional name ("Seiken Densetsu 3" finds Trials of Mana).
+
+LIST OF MISSING GAMES (text file)
+  Y > "Export missing games to a text file" saves the list in the
+  "missing" folder of the app (SD:/App/GameAtlas/missing/):
+  - from the home screen: every system you have games for, in
+    "All my systems.txt", grouped by system with "you have X of Y";
+  - inside a list: just that list, e.g. "Super Nintendo.txt",
+    "Genres - Role-playing.txt" or a search.
+  Each line has the title, year, genre, developer, Metascore, whether an
+  English patch exists, and the exact No-Intro/Redump ROM name (or the
+  arcade .zip name) to look for. "Only games with an English patch" applies
+  to the export too.
 
 GAME PAGE
   Cover, platform, genre, release date, developer, publisher, region,

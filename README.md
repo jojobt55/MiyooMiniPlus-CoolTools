@@ -145,6 +145,9 @@ Ports**, compared with your SD card.
 - Every row shows **games you have / total** with a progress bar. The side panel shows total, installed, missing and
   the percentage.
 - **X = Missing only**, on any screen: the counts switch to what you're missing and lists show only missing games.
+- **Export the missing games to a text file** (Y menu): from the home screen every system you have games for, from a
+  list just that list (one system, genre, decade, search…). Saved in `SD:/App/GameAtlas/missing/`, grouped by system,
+  with year, genre, Metascore and the exact ROM name to look for.
 - Every game has its own page: cover (downloaded when you open it), platform, genre, release date, developer,
   publisher, region, series and Metascore when there is one. A plays it if it's on your SD.
 - **Search** finds any regional title, so "Rockman" finds Mega Man and "Seiken Densetsu 3" finds Trials of Mana.
