@@ -48,6 +48,12 @@ HOW INSTALLING WORKS
      Roms/SFC/Learn 2 Kaizo.sfc, with the hack's title screen as box art.
      Zipped ROMs are unzipped first. For PlayStation .cue/.bin games a new
      .cue and .bin are written.
+  MULTI-DISC GAMES (.m3u playlists, discs in a hidden ".Game" folder too):
+     each disc is listed on its own. Pick a disc and the app uses that
+     disc's patch, saves the patched disc next to the original ones and
+     writes a new playlist, e.g. Roms/PS/FF9 - Comprehensive ATB
+     Enhancement.m3u. Y > "Patch another disc" for the other discs; the
+     playlist is updated each time.
   If your ROM is a different version than the patch expects you are warned
   first. BPS and UPS patches refuse a wrong ROM by themselves.
 
@@ -58,8 +64,11 @@ HOW INSTALLING WORKS
   hashes.txt) so "For my games" can show exact matches everywhere.
 
 LIMITS
-  - CHD, PBP and CSO disc images can't be patched: keep a .cue/.bin or
-    .iso copy of the game you want to patch.
+  - PBP and CSO disc images can't be patched: keep a .cue/.bin, .iso or
+    .chd copy of the game you want to patch.
+  - CHD discs work, but are unpacked first: that takes a few minutes per
+    disc on the Miyoo, and the patched copy is saved as .cue/.bin (about
+    700 MB per PlayStation disc), so keep space free on the SD card.
   - Some releases are not simple patches (PC tools, pre-patched files,
     MSU-1 audio packs). The app says so when no patch is found.
   - xdelta patches made with the rare "djw" compression aren't supported.
@@ -75,4 +84,6 @@ CREDITS
   and Romhack Plaza (romhackplaza.org), which hosts the newer hacks.
   7-Zip (bin/7zzs) by Igor Pavlov, GNU LGPL + unRAR restriction, see
   bin/7zip-License.txt.
+  libchdr (CHD support) by Romain Tisserand and contributors, BSD licence,
+  see bin/libchdr-License.txt.
   Fonts: Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.

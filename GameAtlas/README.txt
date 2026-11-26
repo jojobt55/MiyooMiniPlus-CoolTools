@@ -87,4 +87,6 @@ CREDITS
   Onion team.
   7-Zip (bin/7zzs) by Igor Pavlov, GNU LGPL + unRAR restriction, see
   bin/7zip-License.txt.
+  libchdr (CHD support) by Romain Tisserand and contributors, BSD licence,
+  see bin/libchdr-License.txt.
   Fonts: Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.
