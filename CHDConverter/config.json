@@ -1,0 +1,6 @@
+{
+"label":"CHD Converter",
+"icon":"icon.png",
+"launch":"launch.sh",
+"description":"Convert .bin/.cue disc images to .chd"
+}

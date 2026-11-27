@@ -1,6 +1,6 @@
-# Miyoo Mini apps: Homebrew Store, Series Browser, Genre Browser, Romhack Store, Game Atlas
+# Miyoo Mini apps: Homebrew Store, Series Browser, Genre Browser, Romhack Store, Game Atlas, CHD Converter
 
-Five apps for the **Miyoo Mini and Mini Plus running Onion OS**. They read the same Onion folders and work well
+Six apps for the **Miyoo Mini and Mini Plus running Onion OS**. They read the same Onion folders and work well
 together:
 
 | App | What it does | Download |
@@ -10,6 +10,7 @@ together:
 | **Genre Browser** | Browse the games you already have by genre, and make your own genres | [GenreBrowser.zip](genre-browser/dist/GenreBrowser.zip) |
 | **Romhack Store** | Find ROM hacks and fan translations for your games, and patch a copy on the device | [RomhackStore.zip](romhack-store/dist/RomhackStore.zip) |
 | **Game Atlas** | Every game ever released for your Miyoo's systems, compared with what's on your SD card | [GameAtlas.zip](game-library/dist/GameAtlas.zip) |
+| **CHD Converter** | Turn your .bin/.cue disc images into smaller .chd files, on the console | [CHDConverter.zip](chd-converter/dist/CHDConverter.zip) |
 
 ---
 
@@ -22,12 +23,13 @@ together:
    - `SD:/App/GenreBrowser`
    - `SD:/App/RomhackStore`
    - `SD:/App/GameAtlas`
+   - `SD:/App/CHDConverter`
 3. Put the card back in. The apps appear under **Apps** in Onion.
 
 Nothing else is needed: each app has its own fonts and tools, and nothing on your SD card is changed by installing
 them.
 
-**Wi-Fi:** Homebrew Store always needs it. Series Browser and Genre Browser never need it. Romhack Store needs it to download patches and screenshots. Game Atlas needs
+**Wi-Fi:** Homebrew Store always needs it. Series Browser, Genre Browser and CHD Converter never need it. Romhack Store needs it to download patches and screenshots. Game Atlas needs
 it for covers and English patches only; the rest works offline.
 
 ---
@@ -166,6 +168,23 @@ Y > *Only games with an English patch* filters any list to these games.
 
 ---
 
+## CHD Converter
+
+Converts your **.bin/.cue disc images to .chd** on the console: the same game in less space (often 30-60% smaller for
+PlayStation games), and one file instead of a .cue and several .bin.
+
+- Lists the disc images of every system whose emulator plays CHD (PlayStation, Sega CD, PC Engine CD, Neo Geo CD…),
+  hidden multi-disc folders included. Cartridge `.bin` files (Mega Drive, Atari…) are never touched.
+- Tick the games (all ticked at first), press START, and choose with X whether to **delete the .bin/.cue
+  afterwards** or keep them.
+- **Safe:** each CHD is read back and compared with the original before anything is deleted; if the check fails,
+  the CHD is removed and the originals stay. B stops at any time without losing anything.
+- `.m3u` playlists are updated to the new `.chd`, Onion's game list is refreshed, and box art keeps working.
+- The files are the same as MAME's `chdman` makes (they pass `chdman verify`). Count a few minutes per PlayStation
+  disc.
+
+---
+
 ## Using them together
 
 - **Homebrew Store** adds new, free games to your consoles. Series Browser and Game Atlas pick them up after a
@@ -213,7 +232,8 @@ After adding games to the card, use **Y > Rescan** in any of the apps.
 - **Hacks and translations:** their authors and translators; romhacking.net, preserved by the Internet Archive;
   and [Romhack Plaza](https://romhackplaza.org), which hosts the newer ones.
 - **Bundled software:** 7-Zip (`bin/7zzs`) by Igor Pavlov, GNU LGPL with the unRAR restriction. libchdr (CHD
-  support) by Romain Tisserand and contributors, BSD licence.
+  support) by Romain Tisserand and contributors, BSD licence. LZMA SDK by Igor Pavlov, public domain. miniz, MIT
+  licence. The CHD format is MAME's.
 - **Fonts:** Atkinson Hyperlegible and Press Start 2P, SIL Open Font License.
 - **Onion OS** by the Onion team.
 
